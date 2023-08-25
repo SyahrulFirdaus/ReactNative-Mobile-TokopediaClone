@@ -11,7 +11,7 @@ const App = () => {
       <SafeAreaView style={styles.container}>
         <StatusBar hidden={false} backgroundColor="#e3f1ea" translucent={true} />
         <NavigationContainer>
-          <Beranda />
+          <Router />
         </NavigationContainer>
       </SafeAreaView>
     </>

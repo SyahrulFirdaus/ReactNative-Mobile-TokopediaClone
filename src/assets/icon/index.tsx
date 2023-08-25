@@ -8,6 +8,13 @@ import IconSaving from './Saving.svg'
 import IconLeftArrow from './LeftArrow.svg'
 import IconTokopedia from './Tokopedia.svg'
 import IconChecklist from './Checklist.svg'
+import IconProfile from './Profile.svg'
+import IconSearch from './Search.svg'
+import IconSetting from './Setting.svg'
+import IconSpotify from './Spotify.svg'
+import IconSaved from './Saved.svg'
+import IconSavedActive from './SavedActive.svg'
+import IconSoundCloud from './SoundCloud.svg'
 
 export {
     IconHome,
@@ -19,6 +26,13 @@ export {
     IconLeftArrow,
     IconSaving,
     IconTokopedia,
-    IconChecklist
+    IconChecklist,
+    IconProfile,
+    IconSearch,
+    IconSetting,
+    IconSpotify,
+    IconSaved,
+    IconSavedActive,
+    IconSoundCloud
 
 }
